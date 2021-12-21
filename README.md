@@ -1,4 +1,4 @@
-# # 第二类Fredholm方程的解法
+#  第二类Fredholm方程的解法
 
 > 参考自 Kendall E.Atkinson 的 *The Numerical Solution of Intergral Equations of the Second Kind*。
 
